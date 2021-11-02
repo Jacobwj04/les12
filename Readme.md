@@ -2,6 +2,6 @@
 
 Zet hieronder de links naar jouw game review.
 
-[screenshot voor verandering 1](Screenshot 2021-11-02 at 14.11.32)
+[screenshot 1](les12screenshot1.png)
 
-[screenshot na verandering 2](Screenshot 2021-11-02 at 14.11.36)
+[screenshot 2](les12screenshot2.png)
