@@ -1,6 +1,6 @@
-# Game Reviews
+# screenshot
 
-Zet hieronder de links naar jouw game review.
+
 
 [screenshot 1](les12screenshot1.png)
 
